@@ -1,6 +1,4 @@
-### Hi there 👋
 
-**GORU-98/GORU-98** 
 ## Hi there! I'm Gourav Panchal 👋  
 🚀 MERN Stack Developer | Passionate about building scalable full-stack applications
 🚀 **Tech Stack:**  
